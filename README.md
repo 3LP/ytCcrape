@@ -1,4 +1,4 @@
-<h1> ytScrape </h1>
+<h1> yTScrape </h1>
 <hr>
 <p>Python script that scrapes a youtube playlist for video urls, and downloads audio in mp3 format. </p> 
 
